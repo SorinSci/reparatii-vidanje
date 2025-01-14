@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reparatii-vidanje/static/css/main.c5a63c02.css",
-    "main.js": "/reparatii-vidanje/static/js/main.de786254.js",
-    "static/js/488.d891cdce.chunk.js": "/reparatii-vidanje/static/js/488.d891cdce.chunk.js",
+    "main.js": "/reparatii-vidanje/static/js/main.417bf359.js",
+    "static/js/488.bf31b977.chunk.js": "/reparatii-vidanje/static/js/488.bf31b977.chunk.js",
     "static/media/robot.jpg": "/reparatii-vidanje/static/media/robot.d66c8e2d9fdf1c5284c0.jpg",
     "index.html": "/reparatii-vidanje/index.html",
     "main.c5a63c02.css.map": "/reparatii-vidanje/static/css/main.c5a63c02.css.map",
-    "main.de786254.js.map": "/reparatii-vidanje/static/js/main.de786254.js.map",
-    "488.d891cdce.chunk.js.map": "/reparatii-vidanje/static/js/488.d891cdce.chunk.js.map"
+    "main.417bf359.js.map": "/reparatii-vidanje/static/js/main.417bf359.js.map",
+    "488.bf31b977.chunk.js.map": "/reparatii-vidanje/static/js/488.bf31b977.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5a63c02.css",
-    "static/js/main.de786254.js"
+    "static/js/main.417bf359.js"
   ]
 }
