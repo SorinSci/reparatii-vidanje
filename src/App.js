@@ -17,8 +17,7 @@ function App() {
       <div className="customDiv">
         <Router>
           <Routes>
-            <Route path="/reparatii-vidanje" element={ < div className="frontPageComponents" > <FrontBanner /> </div> } />
-            <Route path="/reparatii-vidanje/home" element={ < div className="frontPageComponents" > <FrontBanner /> </div> } />
+            <Route path="/" element={ < div className="frontPageComponents" > <FrontBanner /> </div> } />
           </Routes>
         </Router>
       </div>
